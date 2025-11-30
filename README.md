@@ -1,4 +1,4 @@
-# Django_Hospital_Management
+# Django-Hospital-Management
 
 
 🏥 Django Hospital Management System – Appointment & Slot Booking API
